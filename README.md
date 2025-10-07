@@ -3,8 +3,7 @@
 This project demonstrates **Python-based web scraping** using `requests`, `BeautifulSoup`, and `pandas`.  
 It covers multiple scraping use cases: job listings, product listings, and tabular data.
 
----
-
+  
 ## 📌 Features
 
 ### 1. RemoteOK Job Scraper
